@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'mysql_checker'
-  s.version     = '0.0.1.pre'
+  s.version     = '0.0.1.pre1'
   s.date        = '2013-05-22'
   s.summary     = "MySQL client which does active test on a DB (mimicking use cases) to find out errors"
   s.description = "Do some work on a MySQL DB to find possible errors"
