@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'mysql_checker'
+
+m = MysqlChecker.new
+m.load_config
+m.setup_connection
+m.test
