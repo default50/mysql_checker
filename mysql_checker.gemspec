@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.executables << 'mysql_checker'
   s.files       = ["lib/mysql_checker.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/mysql_checker'
+    'https://github.com/default50/mysql_checker'
   s.add_runtime_dependency "mysql2",
     ["= 0.3.11"]
 end
